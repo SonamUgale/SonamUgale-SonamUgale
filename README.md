@@ -26,7 +26,7 @@
 <!-- ========================= Tech Stack ========================= -->
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,canva,powerapps,powerautomate,sharepoint,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,mongodb,mysql,git,github,vscode,figma" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/SonamUgale/SonamUgale/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
 
-> ⚠️ **Note:** The snake graph requires **GitHub Actions** set up once to auto-generate daily. I can give you the exact action file next.
+<!-- >  **Note:** The snake graph requires **GitHub Actions** set up once to auto-generate daily. I can give you the exact action file next. -->
 
 ---
 
